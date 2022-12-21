@@ -1,0 +1,41 @@
+body {
+    background-color: lightblue;
+  }
+  
+
+
+
+  @media only screen and (min-width: 560px) {
+    body {
+      background-color: blueviolet;
+      color:white; 
+    }
+  }
+
+  @media only screen and (min-width: 700px) {
+    body {
+      background-color: black;
+      color:white; 
+    }
+  }
+
+@media only screen and (min-width: 920px) {
+    body {
+      background-color: teal;
+      color:red; 
+    }
+  }
+
+@media only screen and (min-width: 1070px) {
+    body {
+      background-color: hotpink;
+      color:blanchedalmond; 
+    }
+  }
+
+@media only screen and (min-width: 1340px) {
+    body {
+      background-color: indigo;
+      color:goldenrod; 
+    }
+  }
